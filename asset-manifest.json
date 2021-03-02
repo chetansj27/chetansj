@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/chetansj/static/css/main.eb311589.chunk.css",
+    "main.js": "/chetansj/static/js/main.38c7dd0e.chunk.js",
+    "main.js.map": "/chetansj/static/js/main.38c7dd0e.chunk.js.map",
+    "runtime-main.js": "/chetansj/static/js/runtime-main.f6498599.js",
+    "runtime-main.js.map": "/chetansj/static/js/runtime-main.f6498599.js.map",
+    "static/js/2.5409a4d8.chunk.js": "/chetansj/static/js/2.5409a4d8.chunk.js",
+    "static/js/2.5409a4d8.chunk.js.map": "/chetansj/static/js/2.5409a4d8.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/chetansj/static/css/3.00373544.chunk.css",
+    "static/js/3.379875bf.chunk.js": "/chetansj/static/js/3.379875bf.chunk.js",
+    "static/js/3.379875bf.chunk.js.map": "/chetansj/static/js/3.379875bf.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/chetansj/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.fde37db6.chunk.js": "/chetansj/static/js/4.fde37db6.chunk.js",
+    "static/js/4.fde37db6.chunk.js.map": "/chetansj/static/js/4.fde37db6.chunk.js.map",
+    "index.html": "/chetansj/index.html",
+    "precache-manifest.cc351f26a8ac8cb8949b05212be3001a.js": "/chetansj/precache-manifest.cc351f26a8ac8cb8949b05212be3001a.js",
+    "service-worker.js": "/chetansj/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/chetansj/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/chetansj/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.eb311589.chunk.css.map": "/chetansj/static/css/main.eb311589.chunk.css.map",
+    "static/js/2.5409a4d8.chunk.js.LICENSE.txt": "/chetansj/static/js/2.5409a4d8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chetansj/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/chetansj/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/chetansj/static/media/developerActivity.59389695.svg",
+    "static/media/donation.jpg": "/chetansj/static/media/donation.f286b49d.jpg",
+    "static/media/farmer.jpg": "/chetansj/static/media/farmer.b3175d3c.jpg",
+    "static/media/manOnTable.svg": "/chetansj/static/media/manOnTable.52be3144.svg",
+    "static/media/medicine.jpg": "/chetansj/static/media/medicine.1432c64f.jpg",
+    "static/media/skill.svg": "/chetansj/static/media/skill.34409398.svg",
+    "static/media/volumetree.png": "/chetansj/static/media/volumetree.091eda3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6498599.js",
+    "static/js/2.5409a4d8.chunk.js",
+    "static/css/main.eb311589.chunk.css",
+    "static/js/main.38c7dd0e.chunk.js"
+  ]
+}
